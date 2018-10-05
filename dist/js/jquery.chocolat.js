@@ -717,7 +717,7 @@
         timerDebounce     : false,
         images            : [],
         enableZoom        : true,
-        imageSource       : "background-image",
+        imageSource       : "url",
         afterInitialize   : function () {},
         afterMarkup       : function () {},
         afterImageLoad    : function () {},
