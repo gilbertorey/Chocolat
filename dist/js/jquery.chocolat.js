@@ -717,7 +717,7 @@
         timerDebounce     : false,
         images            : [],
         enableZoom        : true,
-        imageSource       : "src",
+        imageSource       : "style",
         afterInitialize   : function () {},
         afterMarkup       : function () {},
         afterImageLoad    : function () {},
